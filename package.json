@@ -1,0 +1,24 @@
+{
+  "name": "slack-inviter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "slackin \"codeforsaopaulo\" \"xoxp-54073070323-63005006848-64821170368-7d1d2269b1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-for-sao-paulo/slack-inviter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-for-sao-paulo/slack-inviter/issues"
+  },
+  "homepage": "https://github.com/code-for-sao-paulo/slack-inviter#readme",
+  "dependencies": {
+    "slackin": "^0.13.0"
+  }
+}
